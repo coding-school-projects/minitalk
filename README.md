@@ -108,7 +108,7 @@ for i in {1..5}; do ./client [PID] "Client $i" & done
 
 4. Unicode test (bonus):
 ```bash
-./client [PID] "こんにちは世界"
+./client [PID] "test"
 ```
 
 ## 📜 Evaluation Criteria
