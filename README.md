@@ -1,6 +1,6 @@
 # minitalk
 <h1 align="center">
-	<img src="https://github.com/cpoonkodi/badges/blob/main/badges/minitalkm.png" />
+	<img src="https://github.com/senthilpoo10/badges/blob/main/badges/minitalkm.png" />
 </h1>
 
 <p align="center">
