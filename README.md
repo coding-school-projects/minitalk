@@ -1,4 +1,3 @@
-# minitalk
 <h1 align="center">
 	<img src="https://github.com/senthilpoo10/badges/blob/main/badges/minitalkm.png" />
 </h1>
