@@ -1,7 +1,4 @@
 # minitalk
-Here's a detailed `README.md` for your Minitalk project following the requested format:
-
-```markdown
 <h1 align="center">
 	<img src="https://github.com/cpoonkodi/badges/blob/main/badges/minitalkm.png" />
 </h1>
