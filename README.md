@@ -14,10 +14,10 @@
     <img alt="estimated time" src="https://img.shields.io/badge/time%20spent-35%20hours-blue" />
     <img alt="XP earned" src="https://img.shields.io/badge/XP%20earned-312-orange" />
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/your-username/minitalk?color=lightblue" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/your-username/minitalk?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/your-username/minitalk?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/your-username/minitalk?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/senthilpoo10/minitalk?color=lightblue" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/senthilpoo10/minitalk?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/senthilpoo10/minitalk?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/senthilpoo10/minitalk?color=green" />
 </p>
 
 ## 📚 About The Project
@@ -37,7 +37,7 @@ Key features:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/minitalk.git
+git clone https://github.com/senthilpoo10/minitalk.git
 ```
 
 2. Compile both programs:
